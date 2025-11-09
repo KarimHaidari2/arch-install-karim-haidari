@@ -65,7 +65,7 @@ Key screenshots captured during the process are included in the Word report and 
 
 ---
 
- Discussion  
+
 Throughout the installation process, I encountered and resolved several challenges:  
 - **AUR Signature Verification Error:** Solved by importing the missing GPG key (`46D62DD9F1DE636E`).  
 - **Package Not Found (Neofetch):** Resolved by cloning from AUR and compiling manually.  
@@ -75,7 +75,6 @@ These steps strengthened my understanding of Linux user permissions, package sou
 
 ---
 
- GitHub Repository  
 **Public Repository:**  
 👉 [https://github.com/KarimHaidari2/arch-install-karim-haidari](https://github.com/KarimHaidari2/arch-install-karim-haidari)
 
