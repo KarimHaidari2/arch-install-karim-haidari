@@ -30,15 +30,15 @@ The project was completed as part of **CYB 3353: Linux Fundamentals**, demonstra
 
 ## ⚙️ Project Components  
 
-### 🧩 Part A – Arch Installation & Configuration  
-- ✅ Installed Arch Linux base system  
-- ✅ Added and configured a **GNOME Desktop Environment**  
-- ✅ Created a **sudo user account (`karim`)**  
-- ✅ Installed and configured **Zsh shell** with color prompts  
-- ✅ Added **aliases** for faster command execution  
-- ✅ Installed and enabled **OpenSSH** service  
-- ✅ Installed **Neofetch** from the AUR  
-- ✅ Connected to the internet (ping test verified)  
+###  Part A – Arch Installation & Configuration  
+-  Installed Arch Linux base system  
+-  Added and configured a **GNOME Desktop Environment**  
+-  Created a **sudo user account (`karim`)**  
+-  Installed and configured **Zsh shell** with color prompts  
+-  Added **aliases** for faster command execution  
+-  Installed and enabled **OpenSSH** service  
+-  Installed **Neofetch** from the AUR  
+-  Connected to the internet (ping test verified)  
 
  
 
